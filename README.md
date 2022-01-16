@@ -1,4 +1,4 @@
-# CodeCademy-Learn HTML
+# CodeCademy - Learn HTML
 
 ## CodeCademy Projects
 
