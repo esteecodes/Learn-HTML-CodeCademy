@@ -2,7 +2,7 @@
 <p>Funny enough this project actually includes a fair amount of CSS and even some JS, <br>
   even though it's part of the "Learn HTML" course.</p>
 
-<p> First created in Oct 30, 2021 <br>but then I decided to seperate each CodeCademy <br> practice project into it's own repo on - 2021 Jan 16, 2021</p>
+<p> I took the course in 2020, I created a CodeCademy repo in Oct 30, 2021 <br>but then I decided to seperate each CodeCademy <br> practice project into it's own repo on - 2021 Jan 16, 2021</p>
 
 <h2><a href="https://esteecodes.github.io/Learn-HTML-CodeCademy/Form-a-Story/" target="_blank">View It Here</a></h2>
 
