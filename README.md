@@ -1,4 +1,6 @@
-# Learn HTML - CodeCademy
+<h1> 'Form A Story' Learn HTML - CodeCademy</h1>
+<p>Funny enough this project actually includes a fair amount of CSS and even some JS, <br>
+  even though it's part of the "Learn HTML" course.</p>
 
 <p> First created some time in 2021, <br>but then I decided to seperate each CodeCademy <br> practice project into it's own repo on - 2021 Jan 16, 2021</p>
 
